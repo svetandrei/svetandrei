@@ -1,10 +1,11 @@
 # Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Svet Andrei
 
-[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=gitlab&logoColor)](https://gitlab.com/svetsandrew)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-F2F1F4?style=flat&logo=gitlab&logoColor)](https://gitlab.com/svetsandrew)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetandrei/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/svet.andrei.87/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:svetsandrew@gmail.com)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-000?style=flat&logo=Stackoverflow&logoColor)](https://https://stackoverflow.com/users/21568023/svet-andrei)
+[![Upwork](https://img.shields.io/badge/-Upwork-fff?style=flat&logo=Upwork&logoColor)](https://www.upwork.com/freelancers/~0142882674bcabc8aa)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-fff?style=flat&logo=Stackoverflow&logoColor)](https://https://stackoverflow.com/users/21568023/svet-andrei)
 
 ***Full Stack Developer*** with 8 years of experience organizing and programming the user interface of the future application, linking its logic with the backend, which provides the functionality of the system as a whole. Server logic organization, work architecture and database. During and after development, conduct testing to identify bugs caused by an application user’s unforeseen actions or code errors and fix them.
 
