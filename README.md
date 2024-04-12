@@ -21,8 +21,8 @@
 - Courses Skillbox (2022 - 2023)
 
 ### Certifications:
-- [PHP/HTML/CSS/JS - Web developer] @ Rome Express
-- [Web layout - basic level](https://ibb.co/qryHz8S){:target="_blank" rel="noopener"} @ Skillbox
+- PHP/HTML/CSS/JS - Web developer @ Rome Express
+- [Web layout - basic level](https://ibb.co/qryHz8S){target="_blank"} @ Skillbox
 - [Web layout - advanced level](https://ibb.co/BGJVDmq) @ Skillbox
 - [Javascript - basic level](https://ibb.co/PQr7n4m) @ SKillbox
 - [Javascript - advanced level](https://ibb.co/CwLWcWX) @ SKillbox
