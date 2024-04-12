@@ -21,13 +21,13 @@
 - Courses Skillbox (2022 - 2023)
 
 ### Certifications:
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Rome Express
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Skillbox
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Skillbox
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ SKillbox
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ SKillbox
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ SKillbox
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ SKillbox
+- [PHP/HTML/CSS/JS - Web developer] @ Rome Express
+- [Web layout - basic level](https://ibb.co/qryHz8S) @ Skillbox
+- [Web layout - advanced level](https://ibb.co/BGJVDmq) @ Skillbox
+- [Javascript - basic level](https://ibb.co/PQr7n4m) @ SKillbox
+- [Javascript - advanced level](https://ibb.co/CwLWcWX) @ SKillbox
+- [ReactJS](https://ibb.co/zXTvZRQ) @ SKillbox
+- [NodeJS](https://ibb.co/SBN6mJ8) @ SKillbox
 
 ### Work experience:
 | Job Position           | Company         | Work Period       |
