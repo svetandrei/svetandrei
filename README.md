@@ -1,4 +1,4 @@
-# Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Svet Andrei | [Resume](https://www.canva.com/design/DAEjW-rWvVA/oa6vUnxboqrfzAAAoLKO5Q/edit?utm_content=DAEjW-rWvVA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Hi fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Svet Andrei | [Resume](https://www.canva.com/design/DAEjW-rWvVA/_yC2AbseweApDBo8hAJxtw/view?utm_content=DAEjW-rWvVA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [![Gitlab](https://img.shields.io/badge/-Gitlab-F2F1F4?style=flat&logo=gitlab&logoColor)](https://gitlab.com/svetsandrew)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetandrei/)
